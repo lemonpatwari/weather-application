@@ -1,4 +1,4 @@
 # Weather Application
 
-[API Source]([URL](https://www.weatherapi.com/))
+[API Source](https://www.weatherapi.com/))
 
